@@ -1,2 +1,2 @@
-# RS-School
-https://github.com/LaV0n/RS-School/shelter/pages/main/index.html
+# Pets Shelter.  task from RS-School
+https://lav0n.github.io/RS-School/
